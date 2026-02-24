@@ -7,7 +7,7 @@ A computer vision-based mouse control system that enables hands-free computer in
 
 **Author:** Song Tan  
 **Affiliation:** School of Information Science and Engineering, Ningbo University
-
+**Email：** 2585105684@qq.com
 ---
 
 ## Features
