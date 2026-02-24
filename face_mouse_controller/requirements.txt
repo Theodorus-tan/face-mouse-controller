@@ -1,0 +1,13 @@
+# Face-Controlled Mouse System Dependencies
+# Computer Vision and Machine Learning
+opencv-python>=4.8.0
+mediapipe>=0.10.0
+numpy>=1.21.0
+
+# Mouse Control
+pyautogui>=0.9.54
+
+# Optional: For development
+# pytest>=7.0.0
+# black>=23.0.0
+# flake8>=6.0.0
